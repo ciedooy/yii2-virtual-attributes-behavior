@@ -1,0 +1,21 @@
+{
+    "name": "ciedooy/yii2-virtual-attributes-behavior",
+    "description": "",
+    "keywords": ["yii2"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cie Dooy",
+            "email": "ciedooy@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CieDooy\\VirtualAttributes\\": "src/"
+        }
+    }
+}
